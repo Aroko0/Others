@@ -11,5 +11,5 @@
 
 # スペック
 <a href="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/NVIDIA-GT1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </a>
